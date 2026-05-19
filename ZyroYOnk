@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/84439a2760234929"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZyroYonk/StarFurge-Hub/refs/heads/main/Yonk"))()
